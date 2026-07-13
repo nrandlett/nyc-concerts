@@ -1,1 +1,1049 @@
-[]
+[
+  {
+    "slug": "mercury-lounge",
+    "name": "Mercury Lounge",
+    "borough": "Manhattan",
+    "neighborhood": "Lower East Side",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "rock"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bowery-ballroom",
+    "name": "Bowery Ballroom",
+    "borough": "Manhattan",
+    "neighborhood": "Lower East Side",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "rock"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bowery-electric",
+    "name": "Bowery Electric",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "dance",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "pianos",
+    "name": "Pianos",
+    "borough": "Manhattan",
+    "neighborhood": "Lower East Side",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "pop"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "arlene-s-grocery",
+    "name": "Arlene's Grocery",
+    "borough": "Manhattan",
+    "neighborhood": "Lower East Side",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "open-mic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "rockwood-music-hall",
+    "name": "Rockwood Music Hall",
+    "borough": "Manhattan",
+    "neighborhood": "Lower East Side",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "singer-songwriter",
+      "indie"
+    ],
+    "notes": "Three stages under one roof"
+  },
+  {
+    "slug": "berlin-under-a",
+    "name": "Berlin Under A",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "eclectic",
+      "dj"
+    ],
+    "notes": "Located under 2A bar"
+  },
+  {
+    "slug": "nublu-151",
+    "name": "Nublu 151",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz",
+      "latin",
+      "electronic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bar-freda",
+    "name": "Bar Freda",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "queer",
+      "experimental"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "drom",
+    "name": "DROM",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "world",
+      "jazz",
+      "funk"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "the-stone",
+    "name": "The Stone",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "avant-garde",
+      "experimental"
+    ],
+    "notes": "Now hosted at The New School"
+  },
+  {
+    "slug": "le-poisson-rouge",
+    "name": "Le Poisson Rouge",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "classical",
+      "electronic",
+      "jazz"
+    ],
+    "notes": "Often abbreviated LPR"
+  },
+  {
+    "slug": "webster-hall",
+    "name": "Webster Hall",
+    "borough": "Manhattan",
+    "neighborhood": "East Village",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "pop",
+      "rock"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "racket-nyc",
+    "name": "Racket NYC",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "electronic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "village-vanguard",
+    "name": "Village Vanguard",
+    "borough": "Manhattan",
+    "neighborhood": "West Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": "Historic jazz institution"
+  },
+  {
+    "slug": "blue-note",
+    "name": "Blue Note",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "smalls-jazz-club",
+    "name": "Smalls Jazz Club",
+    "borough": "Manhattan",
+    "neighborhood": "West Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "mezzrow",
+    "name": "Mezzrow",
+    "borough": "Manhattan",
+    "neighborhood": "West Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "zinc-bar",
+    "name": "Zinc Bar",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "cafe-wha",
+    "name": "Café Wha?",
+    "borough": "Manhattan",
+    "neighborhood": "Greenwich Village",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "classic-rock",
+      "eclectic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "city-winery",
+    "name": "City Winery",
+    "borough": "Manhattan",
+    "neighborhood": "Chelsea",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "americana",
+      "comedy",
+      "singer-songwriter"
+    ],
+    "notes": "At Pier 57 in Hudson River Park"
+  },
+  {
+    "slug": "sony-hall",
+    "name": "Sony Hall",
+    "borough": "Manhattan",
+    "neighborhood": "Midtown",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "pop",
+      "rock"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "iridium",
+    "name": "Iridium",
+    "borough": "Manhattan",
+    "neighborhood": "Midtown",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "guitar",
+      "jazz",
+      "blues"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "the-django",
+    "name": "The Django",
+    "borough": "Manhattan",
+    "neighborhood": "Tribeca",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": "In the Roxy Hotel basement"
+  },
+  {
+    "slug": "dizzy-s-club",
+    "name": "Dizzy's Club",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": "Part of Jazz at Lincoln Center"
+  },
+  {
+    "slug": "birdland",
+    "name": "Birdland",
+    "borough": "Manhattan",
+    "neighborhood": "Midtown",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "sugar-bar",
+    "name": "Sugar Bar",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "r&b",
+      "jazz",
+      "soul"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "symphony-space",
+    "name": "Symphony Space",
+    "borough": "Manhattan",
+    "neighborhood": "Upper West Side",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "classical",
+      "world"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "apollo-theater",
+    "name": "Apollo Theater",
+    "borough": "Manhattan",
+    "neighborhood": "Harlem",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "r&b",
+      "gospel",
+      "hip-hop",
+      "legacy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "minton-s-playhouse",
+    "name": "Minton's Playhouse",
+    "borough": "Manhattan",
+    "neighborhood": "Harlem",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "shrine-world-music-venue",
+    "name": "Shrine World Music Venue",
+    "borough": "Manhattan",
+    "neighborhood": "Harlem",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "afrobeat",
+      "reggae",
+      "world"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "silvana",
+    "name": "Silvana",
+    "borough": "Manhattan",
+    "neighborhood": "Harlem",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "world",
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "music-hall-of-williamsburg",
+    "name": "Music Hall of Williamsburg",
+    "borough": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "rock"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "baby-s-all-right",
+    "name": "Baby's All Right",
+    "borough": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "hyperpop"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "warsaw",
+    "name": "Warsaw",
+    "borough": "Brooklyn",
+    "neighborhood": "Greenpoint",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "electronic"
+    ],
+    "notes": "Inside the Polish National Home"
+  },
+  {
+    "slug": "brooklyn-bowl",
+    "name": "Brooklyn Bowl",
+    "borough": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "funk",
+      "indie",
+      "jam"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "union-pool",
+    "name": "Union Pool",
+    "borough": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "country",
+      "dj"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "pete-s-candy-store",
+    "name": "Pete's Candy Store",
+    "borough": "Brooklyn",
+    "neighborhood": "Williamsburg",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "singer-songwriter",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "public-records",
+    "name": "Public Records",
+    "borough": "Brooklyn",
+    "neighborhood": "Gowanus",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "dance",
+      "electronic",
+      "listening-room"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "the-broadway",
+    "name": "The Broadway",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "experimental"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "elsewhere",
+    "name": "Elsewhere",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "electronic"
+    ],
+    "notes": "Multi-room venue (Hall, Zone One, Loft, Rooftop)"
+  },
+  {
+    "slug": "the-sultan-room",
+    "name": "The Sultan Room",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "eclectic",
+      "dj",
+      "world"
+    ],
+    "notes": "Above Turk's Inn"
+  },
+  {
+    "slug": "saint-vitus-bar",
+    "name": "Saint Vitus Bar",
+    "borough": "Brooklyn",
+    "neighborhood": "Greenpoint",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "metal",
+      "punk"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "purgatory",
+    "name": "Purgatory",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "queer",
+      "dj",
+      "punk"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "tv-eye",
+    "name": "TV Eye",
+    "borough": "Queens",
+    "neighborhood": "Ridgewood",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "punk",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "our-wicked-lady",
+    "name": "Our Wicked Lady",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "punk",
+      "diy",
+      "rooftop"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "alphaville",
+    "name": "Alphaville",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "diy",
+      "punk"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bossa-nova-civic-club",
+    "name": "Bossa Nova Civic Club",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "techno",
+      "house"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "mood-ring",
+    "name": "Mood Ring",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "dj",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "hart-bar",
+    "name": "Hart Bar",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "diy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "3-dollar-bill",
+    "name": "3 Dollar Bill",
+    "borough": "Brooklyn",
+    "neighborhood": "Bushwick",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "queer",
+      "dj"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "trans-pecos",
+    "name": "Trans-Pecos",
+    "borough": "Queens",
+    "neighborhood": "Ridgewood",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "experimental",
+      "diy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "nowadays",
+    "name": "Nowadays",
+    "borough": "Queens",
+    "neighborhood": "Ridgewood",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "house",
+      "techno",
+      "outdoor"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "ridgewood-social",
+    "name": "Ridgewood Social",
+    "borough": "Queens",
+    "neighborhood": "Ridgewood",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "diy",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bam-harvey-theater",
+    "name": "BAM Harvey Theater",
+    "borough": "Brooklyn",
+    "neighborhood": "Fort Greene",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "classical",
+      "experimental"
+    ],
+    "notes": "Part of Brooklyn Academy of Music"
+  },
+  {
+    "slug": "roulette",
+    "name": "Roulette",
+    "borough": "Brooklyn",
+    "neighborhood": "Downtown Brooklyn",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "experimental",
+      "new-music",
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "the-bell-house",
+    "name": "The Bell House",
+    "borough": "Brooklyn",
+    "neighborhood": "Gowanus",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "comedy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "union-hall",
+    "name": "Union Hall",
+    "borough": "Brooklyn",
+    "neighborhood": "Park Slope",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "indie",
+      "comedy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "barbes",
+    "name": "Barbès",
+    "borough": "Brooklyn",
+    "neighborhood": "Park Slope",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "world",
+      "jazz",
+      "gypsy"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "littlefield",
+    "name": "Littlefield",
+    "borough": "Brooklyn",
+    "neighborhood": "Gowanus",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "comedy",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "jalopy-theatre",
+    "name": "Jalopy Theatre",
+    "borough": "Brooklyn",
+    "neighborhood": "Red Hook",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "folk",
+      "blues",
+      "americana"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "sunny-s-bar",
+    "name": "Sunny's Bar",
+    "borough": "Brooklyn",
+    "neighborhood": "Red Hook",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "folk",
+      "bluegrass"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "c-mon-everybody",
+    "name": "C'mon Everybody",
+    "borough": "Brooklyn",
+    "neighborhood": "Bed-Stuy",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "diy",
+      "queer",
+      "indie"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bar-bayeux",
+    "name": "Bar Bayeux",
+    "borough": "Brooklyn",
+    "neighborhood": "Prospect Lefferts Gardens",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "ode-to-babel",
+    "name": "Ode to Babel",
+    "borough": "Brooklyn",
+    "neighborhood": "Crown Heights",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz",
+      "soul"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bar-lunatico",
+    "name": "Bar Lunàtico",
+    "borough": "Brooklyn",
+    "neighborhood": "Bed-Stuy",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz",
+      "brazilian"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "friends-and-lovers",
+    "name": "Friends and Lovers",
+    "borough": "Brooklyn",
+    "neighborhood": "Crown Heights",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "diy",
+      "dj"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "knockdown-center",
+    "name": "Knockdown Center",
+    "borough": "Queens",
+    "neighborhood": "Maspeth",
+    "capacity_tier": "medium",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "dance",
+      "electronic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bohemian-hall",
+    "name": "Bohemian Hall",
+    "borough": "Queens",
+    "neighborhood": "Astoria",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "beer-garden",
+      "eclectic"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "terraza-7",
+    "name": "Terraza 7",
+    "borough": "Queens",
+    "neighborhood": "Elmhurst",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "latin",
+      "jazz"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "flushing-town-hall",
+    "name": "Flushing Town Hall",
+    "borough": "Queens",
+    "neighborhood": "Flushing",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "jazz",
+      "world"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bronx-music-hall",
+    "name": "Bronx Music Hall",
+    "borough": "Bronx",
+    "neighborhood": "Melrose",
+    "capacity_tier": "small",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "latin",
+      "salsa"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "the-point-cdc",
+    "name": "The Point CDC",
+    "borough": "Bronx",
+    "neighborhood": "Hunts Point",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "community",
+      "hip-hop"
+    ],
+    "notes": null
+  },
+  {
+    "slug": "bruckner-bar-grill",
+    "name": "Bruckner Bar & Grill",
+    "borough": "Bronx",
+    "neighborhood": "Mott Haven",
+    "capacity_tier": "tiny",
+    "website_url": null,
+    "ticketmaster_id": null,
+    "vibes": [
+      "rock",
+      "indie"
+    ],
+    "notes": null
+  }
+]
