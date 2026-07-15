@@ -1,0 +1,1024 @@
+[
+  {
+    "slug": "3-dollar-bill",
+    "venue_name": "3 Dollar Bill",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "Z7r9jZa7c2",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZa7c2",
+        "tm_name": "3 Dollar Bill",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "alphaville",
+    "venue_name": "Alphaville",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "rZ7HnEZ17_x4S",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZ17_x4S",
+        "tm_name": "Alphaville ",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "apollo-theater",
+    "venue_name": "Apollo Theater",
+    "borough": "Manhattan",
+    "confidence": "low",
+    "chosen": "KovZpZA7AAIA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA7AAIA",
+        "tm_name": "The Apollo's Historic Theater",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZ917AJw7",
+        "tm_name": "The Apollo's Jonelle Procope Theater",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZ917AJsB",
+        "tm_name": "The Apollo's Victoria Theater 1",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "arlene-s-grocery",
+    "venue_name": "Arlene's Grocery",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZAFIv7A",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAFIv7A",
+        "tm_name": "Arlene's Grocery",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "baby-s-all-right",
+    "venue_name": "Baby's All Right",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZAJd6AA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAJd6AA",
+        "tm_name": "Baby's All Right",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bam-harvey-theater",
+    "venue_name": "BAM Harvey Theater",
+    "borough": "Brooklyn",
+    "confidence": "low",
+    "chosen": "KovZ917AOZf",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZ917AOZf",
+        "tm_name": "Brooklyn Academy of Music (BAM): Harvey Theater",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bar-bayeux",
+    "venue_name": "Bar Bayeux",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "bar-freda",
+    "venue_name": "Bar Freda",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "rZ7HnEZ17b7PI",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZ17b7PI",
+        "tm_name": "Bar Freda",
+        "tm_city": "Queens",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bar-lunatico",
+    "venue_name": "Bar Lunàtico",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "barbes",
+    "venue_name": "Barbès",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "berlin-under-a",
+    "venue_name": "Berlin Under A",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "birdland",
+    "venue_name": "Birdland",
+    "borough": "Manhattan",
+    "confidence": "medium",
+    "chosen": "KovZpZAktEEA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAktEEA",
+        "tm_name": "Birdland Jazz Club NYC",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "blue-note",
+    "venue_name": "Blue Note",
+    "borough": "Manhattan",
+    "confidence": "medium",
+    "chosen": "ZFr9jZ6eak",
+    "candidates": [
+      {
+        "ticketmaster_id": "ZFr9jZ6eak",
+        "tm_name": "Blue Note - NY",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAkJtvA",
+        "tm_name": "Blue Note Jazz Club",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bohemian-hall",
+    "venue_name": "Bohemian Hall",
+    "borough": "Queens",
+    "confidence": "medium",
+    "chosen": "Z7r9jZaAI6",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZaAI6",
+        "tm_name": "Bohemian Hall & Beer Garden",
+        "tm_city": "Astoria",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bossa-nova-civic-club",
+    "venue_name": "Bossa Nova Civic Club",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "bowery-ballroom",
+    "venue_name": "Bowery Ballroom",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZA7dkJA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA7dkJA",
+        "tm_name": "Bowery Ballroom",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "rZ7HnEZa7u6",
+        "tm_name": "The Bowery Ballroom",
+        "tm_city": "New York City",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bowery-electric",
+    "venue_name": "Bowery Electric",
+    "borough": "Manhattan",
+    "confidence": "medium",
+    "chosen": "KovZpZAklEeA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAklEeA",
+        "tm_name": "Map Room at Bowery Electric",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bronx-music-hall",
+    "venue_name": "Bronx Music Hall",
+    "borough": "Bronx",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "brooklyn-bowl",
+    "venue_name": "Brooklyn Bowl",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZAIetFA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAIetFA",
+        "tm_name": "Brooklyn Bowl",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "bruckner-bar-grill",
+    "venue_name": "Bruckner Bar & Grill",
+    "borough": "Bronx",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "c-mon-everybody",
+    "venue_name": "C'mon Everybody",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "Z7r9jZadQu",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZadQu",
+        "tm_name": "C'mon Everybody",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "cafe-wha",
+    "venue_name": "Café Wha?",
+    "borough": "Manhattan",
+    "confidence": "low",
+    "chosen": "KovZpZAFteEA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAFteEA",
+        "tm_name": "Cafe Wha?",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "city-winery",
+    "venue_name": "City Winery",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "rZ7HnEZaCth",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZaCth",
+        "tm_name": "City Winery",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZ917A5m7",
+        "tm_name": "City Winery - New York",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "dizzy-s-club",
+    "venue_name": "Dizzy's Club",
+    "borough": "Manhattan",
+    "confidence": "medium",
+    "chosen": "ZFr9jZa61A",
+    "candidates": [
+      {
+        "ticketmaster_id": "ZFr9jZa61A",
+        "tm_name": "Lincoln Center-Dizzy's Club",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "drom",
+    "venue_name": "DROM",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZAdtevA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAdtevA",
+        "tm_name": "Drom",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "elsewhere",
+    "venue_name": "Elsewhere",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZA6enaA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA6enaA",
+        "tm_name": "Elsewhere",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "flushing-town-hall",
+    "venue_name": "Flushing Town Hall",
+    "borough": "Queens",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "friends-and-lovers",
+    "venue_name": "Friends and Lovers",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpa2dpe",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpa2dpe",
+        "tm_name": "Friends and Lovers",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "hart-bar",
+    "venue_name": "Hart Bar",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZAaeItA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAaeItA",
+        "tm_name": "Hart Bar",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "iridium",
+    "venue_name": "Iridium",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZAJeJnA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAJeJnA",
+        "tm_name": "Iridium",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZ917AVbC",
+        "tm_name": "The Iridium",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "jalopy-theatre",
+    "venue_name": "Jalopy Theatre",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "knockdown-center",
+    "venue_name": "Knockdown Center",
+    "borough": "Queens",
+    "confidence": "high",
+    "chosen": "KovZpZAEteAA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAEteAA",
+        "tm_name": "Knockdown Center",
+        "tm_city": "Queens",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "le-poisson-rouge",
+    "venue_name": "Le Poisson Rouge",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "littlefield",
+    "venue_name": "Littlefield",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZAFEFJA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAFEFJA",
+        "tm_name": "Littlefield",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "mercury-lounge",
+    "venue_name": "Mercury Lounge",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZAJAkAA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAJAkAA",
+        "tm_name": "Mercury Lounge",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "mezzrow",
+    "venue_name": "Mezzrow",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "minton-s-playhouse",
+    "venue_name": "Minton's Playhouse",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "mood-ring",
+    "venue_name": "Mood Ring",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "music-hall-of-williamsburg",
+    "venue_name": "Music Hall of Williamsburg",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZA77eIA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA77eIA",
+        "tm_name": "Music Hall of Williamsburg",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "nowadays",
+    "venue_name": "Nowadays",
+    "borough": "Queens",
+    "confidence": "high",
+    "chosen": "Z7r9jZaAjy",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZaAjy",
+        "tm_name": "Nowadays",
+        "tm_city": "Flushing",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "nublu-151",
+    "venue_name": "Nublu 151",
+    "borough": "Manhattan",
+    "confidence": "low",
+    "chosen": "KovZpZA6eAIA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA6eAIA",
+        "tm_name": "Nublu (151)",
+        "tm_city": "New York, NY 10009",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "ode-to-babel",
+    "venue_name": "Ode to Babel",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "our-wicked-lady",
+    "venue_name": "Our Wicked Lady",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "rZ7HnEZ173bA4",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZ173bA4",
+        "tm_name": "Our Wicked Lady",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "pete-s-candy-store",
+    "venue_name": "Pete's Candy Store",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "pianos",
+    "venue_name": "Pianos",
+    "borough": "Manhattan",
+    "confidence": "medium",
+    "chosen": "KovZpZAFI76A",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAFI76A",
+        "tm_name": "Pianos NYC",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "public-records",
+    "venue_name": "Public Records",
+    "borough": "Brooklyn",
+    "confidence": "medium",
+    "chosen": "Z7r9jZa7rg",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZa7rg",
+        "tm_name": "Public Records NYC",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "purgatory",
+    "venue_name": "Purgatory",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "racket-nyc",
+    "venue_name": "Racket NYC",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "Z7r9jZa7MU",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZa7MU",
+        "tm_name": "Racket NYC",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "ridgewood-social",
+    "venue_name": "Ridgewood Social",
+    "borough": "Queens",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "rockwood-music-hall",
+    "venue_name": "Rockwood Music Hall",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZ917A9F0",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZ917A9F0",
+        "tm_name": "Rockwood Music Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "Z7r9jZa7dz",
+        "tm_name": "Rockwood Music Hall Stage 3",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "Z7r9jZaecG",
+        "tm_name": "Rockwood Music Hall Stage 2",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "roulette",
+    "venue_name": "Roulette",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpa4Eee",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpa4Eee",
+        "tm_name": "Roulette",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "saint-vitus-bar",
+    "venue_name": "Saint Vitus Bar",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "shrine-world-music-venue",
+    "venue_name": "Shrine World Music Venue",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "silvana",
+    "venue_name": "Silvana",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "smalls-jazz-club",
+    "venue_name": "Smalls Jazz Club",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "sony-hall",
+    "venue_name": "Sony Hall",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZ917Ah5Q",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZ917Ah5Q",
+        "tm_name": "Sony Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "sugar-bar",
+    "venue_name": "Sugar Bar",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "sunny-s-bar",
+    "venue_name": "Sunny's Bar",
+    "borough": "Brooklyn",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "symphony-space",
+    "venue_name": "Symphony Space",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZA1Jv6A",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZA1Jv6A",
+        "tm_name": "Symphony Space",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "Z7r9jZak32",
+        "tm_name": "Peter Jay Sharp Theatre at Symphony Space",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "terraza-7",
+    "venue_name": "Terraza 7",
+    "borough": "Queens",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "the-bell-house",
+    "venue_name": "The Bell House",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZ917ARvk",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZ917ARvk",
+        "tm_name": "The Bell House",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "the-broadway",
+    "venue_name": "The Broadway",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "rZ7HnEZ17r8AV",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZ17r8AV",
+        "tm_name": "The Broadway",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "Z7r9jZa7Ov",
+        "tm_name": "The Broadway-Brooklyn",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAJAtdA",
+        "tm_name": "The Cafe at Broadway",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "the-django",
+    "venue_name": "The Django",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "the-point-cdc",
+    "venue_name": "The Point CDC",
+    "borough": "Bronx",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "the-stone",
+    "venue_name": "The Stone",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpaowne",
+        "tm_name": "The Showroom at Turning Stone Resort Casino",
+        "tm_city": "Verona",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAFdlJA",
+        "tm_name": "The Event Center at Turning Stone Resort Casino",
+        "tm_city": "Verona",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAatAFA",
+        "tm_name": "Exit 33 - Turning Stone: The Gig, Tin Rooster & Turquoise Tiger",
+        "tm_city": "Verona",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "the-sultan-room",
+    "venue_name": "The Sultan Room",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "rZ7HnEZ17ffQA",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZ17ffQA",
+        "tm_name": "The Sultan Room",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "Z7r9jZa7F1",
+        "tm_name": "Sultan Room",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "trans-pecos",
+    "venue_name": "Trans-Pecos",
+    "borough": "Queens",
+    "confidence": "high",
+    "chosen": "KovZpZAJ7EkA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAJ7EkA",
+        "tm_name": "Trans-Pecos",
+        "tm_city": "Ridgewood",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "tv-eye",
+    "venue_name": "TV Eye",
+    "borough": "Queens",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "union-hall",
+    "venue_name": "Union Hall",
+    "borough": "Brooklyn",
+    "confidence": "medium",
+    "chosen": "rZ7HnEZa7Gl",
+    "candidates": [
+      {
+        "ticketmaster_id": "rZ7HnEZa7Gl",
+        "tm_name": "Union Hall - Brooklyn",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "union-pool",
+    "venue_name": "Union Pool",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "Z7r9jZadjd",
+    "candidates": [
+      {
+        "ticketmaster_id": "Z7r9jZadjd",
+        "tm_name": "Union Pool",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "village-vanguard",
+    "venue_name": "Village Vanguard",
+    "borough": "Manhattan",
+    "confidence": "none",
+    "chosen": null,
+    "candidates": []
+  },
+  {
+    "slug": "warsaw",
+    "venue_name": "Warsaw",
+    "borough": "Brooklyn",
+    "confidence": "high",
+    "chosen": "KovZpZAdJtAA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAdJtAA",
+        "tm_name": "Warsaw",
+        "tm_city": "Brooklyn",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAatJlA",
+        "tm_name": "North Fork Music Park",
+        "tm_city": "Warsaw",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "webster-hall",
+    "venue_name": "Webster Hall",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpa6WFe",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpa6WFe",
+        "tm_name": "Webster Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAdFJIA",
+        "tm_name": "Balcony Lounge at Webster Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAatkFA",
+        "tm_name": "The Studio at Webster Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      },
+      {
+        "ticketmaster_id": "KovZpZAJd7tA",
+        "tm_name": "The Sports Bar at Webster Hall",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  },
+  {
+    "slug": "zinc-bar",
+    "venue_name": "Zinc Bar",
+    "borough": "Manhattan",
+    "confidence": "high",
+    "chosen": "KovZpZAJeaIA",
+    "candidates": [
+      {
+        "ticketmaster_id": "KovZpZAJeaIA",
+        "tm_name": "Zinc Bar",
+        "tm_city": "New York",
+        "tm_state": "NY"
+      }
+    ]
+  }
+]

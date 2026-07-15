@@ -7,7 +7,9 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "seed:venues": "node --env-file=.env.local --import tsx scripts/seed-venues.ts"
+    "seed:venues": "node --env-file=.env.local --import tsx scripts/seed-venues.ts",
+    "backfill:tm-ids": "node --env-file=.env.local --import tsx scripts/backfill-ticketmaster-ids.ts",
+    "ingest:events": "node --env-file=.env.local --import tsx scripts/ingest-events.ts"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.2",
